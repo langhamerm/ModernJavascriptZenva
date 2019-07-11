@@ -1,0 +1,23 @@
+{
+  "name": "modernjavascriptzenva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langhamerm/ModernJavascriptZenva.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langhamerm/ModernJavascriptZenva/issues"
+  },
+  "homepage": "https://github.com/langhamerm/ModernJavascriptZenva#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
